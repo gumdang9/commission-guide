@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/* NotoSansKR */
+@font-face{
+    font-family:'NSK';
+    font-weight:800;
+    src:url("../font/NotoSansKR-Black.woff2") format('woff2');
+}
+@font-face{
+    font-family:'NSK';
+    font-weight:600;
+    src:url("../font/NotoSansKR-Bold.woff2") format('woff2');
+}
+@font-face{
+    font-family:'NSK';
+    font-weight:500;
+    src:url("../font/NotoSansKR-Medium.woff2") format('woff2');
+}
+@font-face{
+    font-family:'NSK';
+    font-weight:400;
+    src:url("../font/NotoSansKR-Regular.woff2") format('woff2');
+}
+@font-face{
+    font-family:'NSK';
+    font-weight:300;
+    src:url("../font/NotoSansKR-Light.woff2") format('woff2');
+}
+@font-face{
+    font-family:'NSK';
+    font-weight:200;
+    src:url("../font/NotoSansKR-Thin.woff2") format('woff2');
+}
+
+/* NanumPenScript */
+@font-face{
+    font-family:'NPS';
+    font-weight:200;
+    src:url("../font/NanumPenScript-Regular.woff") format('woff');
+}
